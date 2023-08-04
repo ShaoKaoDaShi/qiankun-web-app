@@ -1,0 +1,9 @@
+[submodule "qiankun-base"]
+	path = qiankun-base
+	url = git@github.com:ShaoKaoDaShi/qiankun-base.git
+[submodule "react-web-app"]
+	path = react-web-app
+	url = git@github.com:ShaoKaoDaShi/react-web-app.git
+[submodule "vue-web-app"]
+	path = vue-web-app
+	url = git@github.com:ShaoKaoDaShi/vue-web-app.git
