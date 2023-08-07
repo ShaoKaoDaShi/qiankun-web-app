@@ -7,3 +7,6 @@
 [submodule "vue-web-app"]
 	path = vue-web-app
 	url = git@github.com:ShaoKaoDaShi/vue-web-app.git
+[submodule "express-gengerate-api"]
+	path = express-gengerate-api
+	url = git@github.com:ShaoKaoDaShi/express-gengerate-api.git
