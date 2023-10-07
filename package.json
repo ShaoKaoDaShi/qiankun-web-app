@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"npm-run-all --parallel start:*",
+    "start": "npm-run-all --parallel start:*",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start:qiankunBase":"cd qiankun-base && npm start",
-    "start:reactMicroApp":"cd react-web-app && npm start",
-    "start:vueMicroApp":"cd vue-web-app && npm run serve"
+    "start:qiankunBase": "cd qiankun-base && npm start",
+    "start:reactMicroApp": "cd react-web-app && npm start",
+    "start:vueMicroApp": "cd vue-web-app && npm run serve"
   },
   "repository": {
     "type": "git",
